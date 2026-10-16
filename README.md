@@ -20,8 +20,8 @@ Dieses Repository dokumentiert, wie ich meine Kamera geöffnet habe und vorberei
 * **Achtung:** Auf Flachbandkabel (Ribbon Cables) achten, die Vorder- und Rückseite verbinden!
 
 ### 2. Schrauben entfernen
-* Versteckte Schrauben unter Gummiabdeckungen oder Aufklebern suchen.
-* Alle Gehäuseschrauben lösen und sortiert ablegen.
+* Schrauben auf der Platine lösen
+* Flachbandkabel trennen
 
 ### 3. Analyse der Platine (PCB)
 * Suche nach **UART/Seriell-Pins** (GND, TX, RX, VCC) für den Hardware-Zugriff.
